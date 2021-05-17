@@ -1,3 +1,5 @@
+package br.com.vini;
+
 public class Imperativo{
   public static void main(String[] args){
     int valor = 10;

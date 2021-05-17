@@ -1,3 +1,5 @@
+package br.com.vini;
+
 import java.util.function.UnaryOperator;
 
 public class Funcional{
